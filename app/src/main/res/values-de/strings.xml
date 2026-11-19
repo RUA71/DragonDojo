@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DragonDojo</string>
+    <string name="choose_role">Wie möchtest du DragonDojo nutzen?</string>
+    <string name="student">Schüler</string>
+    <string name="parent">Elternteil</string>
+    <string name="instructor">Trainer</string>
+    <string name="admin">Administrator</string>
+    <string name="dashboard">Übersicht</string>
+    <string name="training">Training</string>
+    <string name="library">Bibliothek</string>
+    <string name="profile">Profil</string>
+    <string name="welcome">Willkommen zurück, Alex</string>
+    <string name="next_class">Nächster Kurs</string>
+    <string name="book">Kurs buchen</string>
+    <string name="cancel_booking">Buchung stornieren</string>
+    <string name="booked">Gebucht</string>
+    <string name="attendance">Anwesenheit</string>
+    <string name="check_in">Anwesenheit melden</string>
+    <string name="checked_in">Anwesenheit erfasst</string>
+    <string name="search_techniques">Techniken suchen</string>
+    <string name="no_results">Keine Techniken gefunden</string>
+    <string name="belt_progress">Gurtfortschritt</string>
+    <string name="current_belt">Aktueller Gürtel</string>
+    <string name="remaining">Weiter so — noch %1$d Einheiten bis zur Prüfung.</string>
+    <string name="offline_ready">Offline bereit • Demodaten</string>
+    <string name="role">Rolle</string>
+    <string name="change_role">Rolle ändern</string>
+    <string name="dark_mode">Dunkelmodus</string>
+    <string name="language_note">Die Sprache folgt der Geräteeinstellung</string>
+    <string name="instructor_hint">Unterrichtsübersicht</string>
+    <string name="parent_hint">Familienfortschritt</string>
+    <string name="admin_hint">Dojo-Verwaltungsübersicht</string>
+    <string name="continue_label">Weiter</string>
+</resources>

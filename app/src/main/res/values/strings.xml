@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DragonDojo</string>
+    <string name="choose_role">How will you use DragonDojo?</string>
+    <string name="student">Student</string>
+    <string name="parent">Parent</string>
+    <string name="instructor">Instructor</string>
+    <string name="admin">Admin</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="training">Training</string>
+    <string name="library">Library</string>
+    <string name="profile">Profile</string>
+    <string name="welcome">Welcome back, Alex</string>
+    <string name="next_class">Next class</string>
+    <string name="book">Book class</string>
+    <string name="cancel_booking">Cancel booking</string>
+    <string name="booked">Booked</string>
+    <string name="attendance">Attendance</string>
+    <string name="check_in">Mark attendance</string>
+    <string name="checked_in">Attendance marked</string>
+    <string name="search_techniques">Search techniques</string>
+    <string name="no_results">No techniques found</string>
+    <string name="belt_progress">Belt progress</string>
+    <string name="current_belt">Current belt</string>
+    <string name="remaining">Keep going — %1$d sessions to your next grading.</string>
+    <string name="offline_ready">Offline-ready • Demo data</string>
+    <string name="role">Role</string>
+    <string name="change_role">Change role</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="language_note">Language follows your device setting</string>
+    <string name="instructor_hint">Teaching overview</string>
+    <string name="parent_hint">Family progress overview</string>
+    <string name="admin_hint">Dojo administration overview</string>
+    <string name="continue_label">Continue</string>
+</resources>
